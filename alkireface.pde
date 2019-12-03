@@ -19,7 +19,6 @@ fill(#ffdbac);
 ellipse (250,150,150,150);
 //nose
 triangle(250,150, 240, 160, 260, 160);
-surface.setTitle(mouseX+","+mouseY);
 //eyes
 fill(255);
 ellipse (220,120,15,15);
